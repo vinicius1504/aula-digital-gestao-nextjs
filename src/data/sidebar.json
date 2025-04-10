@@ -1,0 +1,27 @@
+[
+    {
+      "titulo": "",
+      "itens": [
+        { "label": "Dashboard", "icon": "FaChartBar" },
+        { "label": "Calendário", "icon": "FaCalendarAlt" }
+      ]
+    },
+    {
+      "titulo": "GESTÃO ACADÊMICA",
+      "itens": [
+        { "label": "Aulas", "icon": "FaBook" },
+        { "label": "Alunos", "icon": "FaUsers" },
+        { "label": "Avaliações", "icon": "FaClipboardList" },
+        { "label": "Frequência", "icon": "FaCalendarCheck" }
+      ]
+    },
+    {
+      "titulo": "CONFIGURAÇÕES",
+      "itens": [
+        { "label": "Perfil", "icon": "FaUser" },
+        { "label": "Configurações", "icon": "FaCog" },
+        { "label": "Ajuda", "icon": "FaQuestionCircle" }
+      ]
+    }
+  ]
+  
